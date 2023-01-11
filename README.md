@@ -1,4 +1,4 @@
-# project-quote-generator
+# Quote Generator with React.js
 
 Using react to create a quote generator. I will be using this project to improve my skills on react. 
 
